@@ -1,0 +1,32 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-98209-CR2",
+      "NSCIB-CC-15-67206-CR",
+      "NSCIB-CC-15-67206-",
+      "NSCIB-CC-"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL6",
+      "EAL6+",
+      "EAL3",
+      "EAL4+",
+      "EAL 6"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-2",
+      "SHA-256",
+      "SHA-512"
+    ]
+  },
+  "title": "BSI-DSZ-CC-1102-2019 for Infineon Technologies Security Controller IFX_CCI_001Fh, IFX_CCI_002Fh, IFX_CCI_0030h, IFX_CCI_0033h, IFX_CCI_0035h, IFX_CCI_0036h, IFX_CCI_0038h design step S11 and M11 with optional HSL v2.62.7626, optional SCL version v2.04.003, UMSLC lib v01.00.0234 with specific IC- dedicated firmware identifier 80.304.01.0 and user guidance",
+  "table_of_contents": []
+}

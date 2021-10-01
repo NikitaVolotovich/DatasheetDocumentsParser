@@ -1,0 +1,38 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-16-111441"
+    ]
+  },
+  "versions": {
+    "global_platform": [
+      "GlobalPlatform 2.2.1"
+    ],
+    "eal": [
+      "EAL6",
+      "EAL6+"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "ecc": [
+      "ECC 256"
+    ],
+    "java_card": [
+      "Java Card 3.0.4",
+      "Java Card 3"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "NXP JCOP4.0 on P73N2M0 Secure Smart Card Controller",
+  "table_of_contents": []
+}

@@ -1,0 +1,41 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-00229287",
+      "NSCIB-CC-180212",
+      "NSCIB-CC-180212-CR2"
+    ]
+  },
+  "versions": {
+    "global_platform": [
+      "GlobalPlatform 2.2.1"
+    ],
+    "eal": [
+      "EAL 5+",
+      "EAL 6+",
+      "EAL5",
+      "EAL 5",
+      "EAL4"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "ecc": [
+      "ECC 256"
+    ],
+    "java_card": [
+      "Java Card 3.0.4"
+    ],
+    "sha": [
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "NXP eDoc Suite v3.5 on JCOP4 P71 – cryptovision ePasslet Suite –– Java Card applet configuration providing Secure Signature Creation Device with key import (SSCD)",
+  "table_of_contents": []
+}

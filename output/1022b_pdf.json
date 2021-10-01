@@ -1,0 +1,39 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-98209-CR2",
+      "NSCIB-CC-15-67206-CR",
+      "NSCIB-CC-15-67206-",
+      "NSCIB-CC-"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL 5+",
+      "EAL5",
+      "EAL4"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512",
+      "SHA-25639"
+    ]
+  },
+  "title": "NXP eDoc Suite v3.0 – cryptovision ePasslet Suite – Java Card applet configuration providing Machine Readable Travel Document with „ICAO Application”, Extended Access Con- trol with PACE",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      24
+    ]
+  ]
+}

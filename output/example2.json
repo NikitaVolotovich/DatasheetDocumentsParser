@@ -1,0 +1,40 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-0176780-CR"
+    ]
+  },
+  "versions": {
+    "global_platform": [
+      "GlobalPlatform 2.2.1"
+    ],
+    "eal": [
+      "EAL2+",
+      "EAL4",
+      "EAL4+",
+      "EAL 4"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "ecc": [
+      "ECC 256"
+    ],
+    "java_card": [
+      "Java Card 3.0.4",
+      "Java Card 3"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "TÜV Rheinland Nederland B.V. Certification Report Version 2020-2 STSafe S300 v1.2.5 Sponsor and developer: ST Microelectronics S.r.l. Zona Industriale Marcianise SUD 81025 Marcianise (CE) Italy Evaluation facility: Brightsight Brassersplein 2 2612 CT Delft The Netherlands Report number: NSCIB-CC-0176780-CR Report version: 1 Project number: 0176780 Author(s): Wouter Slegers ® TÜV, TUEV and TUV are registered trademarks. Any use or application requires prior approval. Date: 20 August 2020 Number of pages: 11 Number of appendices: 0 Reproduction of this report is authorized provided the report is reproduced in its entirety. Headoffice: Location Leek: info@nl.tuv.com TÜV Rheinland Nederland B.V. is a Westervoortsedijk 73 Eiberkamp 10 www.tuv.com/nl registered company at the Dutch NL-6827 AV Arnhem NL-9351 VT Leek Chamber of Commerce under Tel. +31 (0)88 888 7 888 number 27288788 P.O. Box 2220 P.O. Box 37 Fax +31 (0)88 888 7 879 NL-6802 CE Arnhem NL-9350 AA Leek VAT number: NL815820380B01 The Netherlands The Netherlands IBAN: NL61DEUT0265155096 Page: 2/11 of report number: NSCIB-CC-0176780-CR, dated 20 August 2020 CONTENTS: Foreword 3 Recognition of the certificate 4 International recognition 4 European recognition 4 1 Executive Summary 5 2 Certification Results 6 2.1 Identification of Target of Evaluation 6 2.2 Security Policy 6 2.3 Assumptions and Clarification of Scope 6 2.4 Architectural Information 6 2.5 Documentation 7 2.6 IT Product Testing 7 2.7 Re-used evaluation results 8 2.8 Evaluated Configuration 8 2.9 Results of the Evaluation 8 2.10 Comments/Recommendations 9 3 Security Target 10 4 Definitions 10 5 Bibliography 11 ® TÜV, TUEV and TUV are registered trademarks. Any use or application requires prior approval. Page: 3/11 of report number: NSCIB-CC-0176780-CR, dated 20 August 2020 Foreword The Netherlands Scheme for Certification in the Area of IT Security (NSCIB) provides a third-party evaluation and certification service for determining the trustworthiness of Information Technology (IT) security products. Under this NSCIB, TÜV Rheinland Nederland B.V. has the task of issuing certificates for IT security products, as well as for protection profiles and sites. Part of the procedure is the technical examination (evaluation) of the product, protection profile or site according to the Common Criteria assessment guidelines published by the NSCIB. Evaluations are performed by an IT Security Evaluation Facility (ITSEF) under the oversight of the NSCIB Certification Body, which is operated by TÜV Rheinland Nederland B.V. in cooperation with the Ministry of the Interior and Kingdom Relations. An ITSEF in the Netherlands is a commercial facility that has been licensed by TÜV Rheinland Nederland B.V. to perform Common Criteria evaluations; a significant requirement for such a license is accreditation to the requirements of ISO Standard 17025 “General requirements for the accreditation of calibration and testing laboratories”. By awarding a Common Criteria certificate, TÜV Rheinland Nederland B.V. asserts that the product or site complies with the security requirements specified in the associated (site) security target, or that the protection profile (PP) complies with the requirements for PP evaluation specified in the Common Criteria for Information Security Evaluation. A (site) security target is a requirements specification document that defines the scope of the evaluation activities. The consumer should review the (site) security target or protection profile, in addition to this certification report, in order to gain an understanding of any assumptions made during the evaluation, the IT product\u0027s intended environment, its security requirements, and the level of confidence (i.e., the evaluation assurance level) that the product or site satisfies the security requirements stated in the (site) security target. Reproduction of this report is authorized provided the report is reproduced in its entirety. ® TÜV, TUEV and TUV are registered trademarks. Any use or application requires prior approval. Page: 4/11 of report number: NSCIB-CC-0176780-CR, dated 20 August 2020 Recognition of the certificate Presence of the Common Criteria Recognition Arrangement and SOG-IS logos on the certificate indicates that this certificate is issued in accordance with the provisions of the CCRA and the SOG-IS agreement and will be recognised by the participating nations. International recognition The CCRA has been signed by the Netherlands in May 2000 and provides mutual recognition of certificates based on the CC. Starting September 2014 the CCRA has been updated to provide mutual recognition of certificates based on cPPs (exact use) or STs with evaluation assurance components up to and including EAL2+ALC_FLR. The current list of signatory nations and approved certification schemes can be found on: http://www.commoncriteriaportal.org. European recognition The European SOGIS-Mutual Recognition Agreement (SOGIS-MRA) version 3 effective",
+  "table_of_contents": []
+}

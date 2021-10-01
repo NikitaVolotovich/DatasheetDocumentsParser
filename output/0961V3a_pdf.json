@@ -1,0 +1,30 @@
+{
+  "versions": {
+    "eal": [
+      "EAL 6",
+      "EAL 5",
+      "EAL 2",
+      "EAL 1",
+      "EAL 4",
+      "EAL 2+",
+      "EAL5+"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-256"
+    ]
+  },
+  "title": "BSI-DSZ-CC-0961-V3-2018 for Infineon smart card IC (Security Controller) IFX_CCI_000007h, IFX_CCI_000009h, IFX_CCI_00000Ah, IFX_CCI_00000Bh, IFX_CCI_000016h, IFX_CCI_000017h, IFX_CCI_000018h, IFX_CCI_000023h, IFX_CCI_000024h design step G13 with optional libraries CIPURSE™ CL, RSA2048/4096, EC, Toolbox, HSL, SCL and with specific IC dedicated software",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      32
+    ]
+  ]
+}

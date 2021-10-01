@@ -1,0 +1,36 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-98209-CR2",
+      "NSCIB-CC-15-67206-CR",
+      "NSCIB-CC-15-67206-",
+      "NSCIB-CC-"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL5+",
+      "EAL5",
+      "EAL 5",
+      "EAL3"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-256"
+    ]
+  },
+  "title": "PUBLIC IFX_CCI_000Dh, IFX_CCI_0020h, IFX_CCI_0031h, IFX_CCI_0032h, IFX_CCI_0034h, IFX_CCI_0037h T31 and M31",
+  "table_of_contents": [
+    [
+      "Contents",
+      "TableofContents",
+      23
+    ]
+  ]
+}

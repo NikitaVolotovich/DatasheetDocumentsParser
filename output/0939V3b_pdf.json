@@ -1,0 +1,29 @@
+{
+  "versions": {
+    "eal": [
+      "EAL6+",
+      "EAL6",
+      "EAL4",
+      "EAL4+",
+      "EAL 6"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-2",
+      "SHA-256"
+    ]
+  },
+  "title": "NXP Secure Smart Card Controller P60D024/016/012yVB(Y/Z/A)/yVF",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      26
+    ]
+  ]
+}

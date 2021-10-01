@@ -1,0 +1,40 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-156530_3",
+      "NSCIB-CC-1156530_3"
+    ]
+  },
+  "versions": {
+    "global_platform": [
+      "GlobalPlatform 2.2.1"
+    ],
+    "eal": [
+      "EAL5",
+      "EAL4"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "ecc": [
+      "ECC 256"
+    ],
+    "java_card": [
+      "Java Card 3.0.4",
+      "Java Card v3.0.5",
+      "Java Card 3"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "NXP JCOP4.x on P73N2M0B0.2C2/2C6 Secure Element",
+  "table_of_contents": []
+}

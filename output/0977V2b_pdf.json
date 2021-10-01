@@ -1,0 +1,26 @@
+{
+  "versions": {
+    "eal": [
+      "EAL6",
+      "EAL4",
+      "EAL4+"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-256"
+    ]
+  },
+  "title": "NXP Secure Smart Card Controller N7021 VA",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      29
+    ]
+  ]
+}

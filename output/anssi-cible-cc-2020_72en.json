@@ -1,0 +1,36 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-180212"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL5",
+      "EAL 4",
+      "EAL 4+"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "java_card": [
+      "Java Card 3"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-256",
+      "SHA-224"
+    ]
+  },
+  "title": "ChipDoc v3 on JCOP 4 P71 in ICAO EAC with PACE configuration",
+  "table_of_contents": [
+    [
+      "Contents",
+      "TableofContents",
+      23
+    ]
+  ]
+}

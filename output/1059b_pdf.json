@@ -1,0 +1,39 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-98209-CR2",
+      "NSCIB-CC-15-67206-CR",
+      "NSCIB-CC-15-67206-",
+      "NSCIB-CC-"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL6",
+      "EAL6+",
+      "EAL4",
+      "EAL4+"
+    ],
+    "rsa": [
+      "RSA 2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "NXP Secure Smart Card Controller P6022y VB",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      25
+    ]
+  ]
+}

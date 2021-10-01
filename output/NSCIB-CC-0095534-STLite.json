@@ -1,0 +1,30 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-0095534"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL6"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "java_card": [
+      "Java Card 3"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "JCOP 4.7 SE051",
+  "table_of_contents": []
+}

@@ -1,0 +1,39 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-180351-CR2",
+      "NSCIBCC-180045"
+    ]
+  },
+  "versions": {
+    "global_platform": [
+      "GlobalPlatform 2.2.1"
+    ],
+    "eal": [
+      "EAL4"
+    ],
+    "rsa": [
+      "RSA 1024"
+    ],
+    "des": [
+      "3-DES",
+      "3DES"
+    ],
+    "ecc": [
+      "ECC 256"
+    ],
+    "java_card": [
+      "Java Card Platform v2.1.6"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-512",
+      "SHA-2",
+      "SHA-384"
+    ]
+  },
+  "title": "MF2DL(H)x0, MF2ID(H)10, NT4H2x21Gf and NT4H2x21Tf",
+  "table_of_contents": []
+}

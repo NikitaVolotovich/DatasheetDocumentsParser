@@ -1,0 +1,20 @@
+{
+  "versions": {
+    "eal": [
+      "EAL5",
+      "EAL 5+"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-1",
+      "SHA-224",
+      "SHA-256",
+      "SHA-384",
+      "SHA-512"
+    ]
+  },
+  "title": "SECURITY TARGET LITE IDEAL PASS v2.3-n JC WITH PRIVACY PROTECTION (SAC/EAC/POLYMORPHIC EMRTD CONFIGURATION)",
+  "table_of_contents": []
+}

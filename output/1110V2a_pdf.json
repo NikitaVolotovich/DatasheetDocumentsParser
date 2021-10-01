@@ -1,0 +1,41 @@
+{
+  "other": {
+    "certid": [
+      "NSCIB-CC-98209-CR2",
+      "NSCIB-CC-15-67206-CR",
+      "NSCIB-CC-15-67206-",
+      "NSCIB-CC-"
+    ]
+  },
+  "versions": {
+    "eal": [
+      "EAL 6",
+      "EAL 5",
+      "EAL 2",
+      "EAL 1",
+      "EAL 4",
+      "EAL 2+",
+      "EAL5+",
+      "EAL6"
+    ],
+    "rsa": [
+      "RSA-2048"
+    ],
+    "des": [
+      "3DES"
+    ],
+    "sha": [
+      "SHA-256",
+      "SHA-1",
+      "SHA-2"
+    ]
+  },
+  "title": "BSI-DSZ-CC-1110-V2-2019 for Infineon Security Controller IFX_CCI_000003h, 000005h, 000008h, 00000Ch, 000013h, 000014h, 000015h, 00001Ch, 00001Dh, 000021h, 000022h H13 including the products",
+  "table_of_contents": [
+    [
+      "A.",
+      "Certification",
+      36
+    ]
+  ]
+}

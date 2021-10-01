@@ -1,0 +1,3 @@
+/Users/mac/Google\ Drive/Workspaces/Java/SecurityDocumentParser/InputFiles/example1.txt
+
+/Users/mac/Google\ Drive/Workspaces/Java/SecurityDocumentParser/InputFiles/example2.txt
